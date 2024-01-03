@@ -1,0 +1,107 @@
+{
+    "dogs":[
+        {
+            "id": 1,
+            "title": "Benji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Kenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Lenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat1.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Renji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat2.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Kanji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog3.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Iji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat3.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Booji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog4.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Genji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat5.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Penji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat6.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Xenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat7.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Zenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat8.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Nenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat9.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Memji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat10.jpg"
+        },
+        {   "id": 14,
+            "title": "Denji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Cat11.jpg"
+        },
+        {   "id": 15,
+            "title": "Fenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog6.jpg"
+        },
+        {   "id": 16,
+            "title": "Jenji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog7.webp"
+        },
+        {   "id": 17,
+            "title": "Anji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog8.jpg"
+        },
+        {   "id": 18,
+            "title": "Enji",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "img/Dog5.webp"
+        }
+    ]
+}
